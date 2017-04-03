@@ -9,6 +9,6 @@ He is passionate about new technologies and keeps up-to-date on emerging technol
 He is currently focused on IoT, Machine Learning and Deep Learning initiatives.
 
 Please see his LinkedIn profile @ https://www.linkedin.com/in/maheshagodekere  
-Follow me on Twitter [@maheshagodekere](https://twitter.com/MaheshaGodekere)  
+Follow him on Twitter [@maheshagodekere](https://twitter.com/MaheshaGodekere)  
 
 This repo gives complete overview on Mahesha Godekere's learnings and open source projects!
